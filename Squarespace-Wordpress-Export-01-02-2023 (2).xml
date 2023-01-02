@@ -1,0 +1,3353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>tres33</title>
+    <link>https://salamander-kazoo-hz8e.squarespace.com</link>
+    <pubDate>Mon, 02 Jan 2023 17:17:35 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-562088347</wp:author_id>
+      <wp:author_login>niijixyz@gmail.com</wp:author_login>
+      <wp:author_email>niijixyz@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[NIIJIxyz .]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[NIIJIxyz]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[.]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home-1</link>
+      <title>Home</title>
+      <pubDate>Mon, 02 Jan 2023 17:35:05 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63b31216a2056d0b3f945e67" id="sections">
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--bottom
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216a2056d0b3f945e6b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216a2056d0b3f945e6a {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216a2056d0b3f945e6a {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216a2056d0b3f945e6a {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(9,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-9ed086d8147fe59a100d {
+    grid-area: 2/2/16/10;
+    z-index: 0;
+  }
+
+  .fe-block-9ed086d8147fe59a100d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-9ed086d8147fe59a100d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9ed086d8147fe59a100d {
+      grid-area: 3/2/10/20;
+      z-index: 0;
+    }
+
+    .fe-block-9ed086d8147fe59a100d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-9ed086d8147fe59a100d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216a2056d0b3f945e6a"><div class="fe-block fe-block-9ed086d8147fe59a100d"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9ed086d8147fe59a100d"><div class="sqs-block-content">
+
+<h1 style="white-space:pre-wrap;"><strong>Tres33</strong></h1><h1 data-rte-preserve-empty="true" style="white-space:pre-wrap;"></h1>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216a2056d0b3f945e6e"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216a2056d0b3f945e6d {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(17,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216a2056d0b3f945e6d {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216a2056d0b3f945e6d {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(18,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-bb9d43264ce4a8e04101 {
+    grid-area: 2/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-bb9d43264ce4a8e04101 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-bb9d43264ce4a8e04101 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-bb9d43264ce4a8e04101 {
+      grid-area: 2/2/19/16;
+      z-index: 0;
+    }
+
+    .fe-block-bb9d43264ce4a8e04101 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-bb9d43264ce4a8e04101 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-215647f557d920b91e30 {
+    grid-area: 11/2/17/10;
+    z-index: 1;
+  }
+
+  .fe-block-215647f557d920b91e30 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-215647f557d920b91e30 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-215647f557d920b91e30 {
+      grid-area: 2/18/4/26;
+      z-index: 1;
+    }
+
+    .fe-block-215647f557d920b91e30 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-215647f557d920b91e30 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216a2056d0b3f945e6d"><div class="fe-block fe-block-bb9d43264ce4a8e04101"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-bb9d43264ce4a8e04101"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-vertical-clip
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917897-I90ZDFFAQTMADXB764NB/2005.37.4_PS2.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917897-I90ZDFFAQTMADXB764NB/2005.37.4_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917897-I90ZDFFAQTMADXB764NB/2005.37.4_PS2.jpg" data-image-dimensions="1387x1107" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+        .fe-block-bb9d43264ce4a8e04101 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-215647f557d920b91e30"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-215647f557d920b91e30"><div class="sqs-block-content">
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216a2056d0b3f945e71"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216a2056d0b3f945e70 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216a2056d0b3f945e70 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216a2056d0b3f945e70 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(2,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-5d085f59f9a0285decf1 {
+    grid-area: 2/2/12/10;
+    z-index: 0;
+  }
+
+  .fe-block-5d085f59f9a0285decf1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-5d085f59f9a0285decf1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5d085f59f9a0285decf1 {
+      grid-area: 1/2/3/26;
+      z-index: 0;
+    }
+
+    .fe-block-5d085f59f9a0285decf1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-5d085f59f9a0285decf1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216a2056d0b3f945e70"><div class="fe-block fe-block-5d085f59f9a0285decf1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5d085f59f9a0285decf1"><div class="sqs-block-content">
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216a2056d0b3f945e74"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216a2056d0b3f945e73 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216a2056d0b3f945e73 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216a2056d0b3f945e73 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(17,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-ecd90d76eb17c62c0955 {
+    grid-area: 2/2/8/10;
+    z-index: 0;
+  }
+
+  .fe-block-ecd90d76eb17c62c0955 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ecd90d76eb17c62c0955 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ecd90d76eb17c62c0955 {
+      grid-area: 3/2/5/10;
+      z-index: 0;
+    }
+
+    .fe-block-ecd90d76eb17c62c0955 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ecd90d76eb17c62c0955 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-47e61fab42fa121a78a6 {
+    grid-area: 8/2/16/10;
+    z-index: 1;
+  }
+
+  .fe-block-47e61fab42fa121a78a6 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-47e61fab42fa121a78a6 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-47e61fab42fa121a78a6 {
+      grid-area: 3/13/18/26;
+      z-index: 1;
+    }
+
+    .fe-block-47e61fab42fa121a78a6 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-47e61fab42fa121a78a6 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216a2056d0b3f945e73"><div class="fe-block fe-block-ecd90d76eb17c62c0955"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ecd90d76eb17c62c0955"><div class="sqs-block-content">
+
+
+
+
+</div></div></div><div class="fe-block fe-block-47e61fab42fa121a78a6"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-47e61fab42fa121a78a6"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-vertical-clip
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917903-I023HVJ6CZQR0R7U0BK5/Copy-of-McQuade_Genius_Spot_Illo_1-copy.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917903-I023HVJ6CZQR0R7U0BK5/Copy-of-McQuade_Genius_Spot_Illo_1-copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917903-I023HVJ6CZQR0R7U0BK5/Copy-of-McQuade_Genius_Spot_Illo_1-copy.jpg" data-image-dimensions="1536x1226" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+        .fe-block-47e61fab42fa121a78a6 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63b31216a2056d0b3f945e77"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216a2056d0b3f945e76 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(24,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216a2056d0b3f945e76 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216a2056d0b3f945e76 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(2,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-fc611e655f9196c0f6f1 {
+    grid-area: 2/2/25/10;
+    z-index: 0;
+  }
+
+  .fe-block-fc611e655f9196c0f6f1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-fc611e655f9196c0f6f1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-fc611e655f9196c0f6f1 {
+      grid-area: 1/2/3/26;
+      z-index: 0;
+    }
+
+    .fe-block-fc611e655f9196c0f6f1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-fc611e655f9196c0f6f1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216a2056d0b3f945e76"><div class="fe-block fe-block-fc611e655f9196c0f6f1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fc611e655f9196c0f6f1"><div class="sqs-block-content">
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216a2056d0b3f945e7a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216a2056d0b3f945e79 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(15,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216a2056d0b3f945e79 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216a2056d0b3f945e79 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-8a1a79080eabdcab5146 {
+    grid-area: 2/2/9/10;
+    z-index: 0;
+  }
+
+  .fe-block-8a1a79080eabdcab5146 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-8a1a79080eabdcab5146 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8a1a79080eabdcab5146 {
+      grid-area: 1/2/14/16;
+      z-index: 0;
+    }
+
+    .fe-block-8a1a79080eabdcab5146 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-8a1a79080eabdcab5146 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-fd7800f931d5a83b8f8b {
+    grid-area: 10/2/15/10;
+    z-index: 1;
+  }
+
+  .fe-block-fd7800f931d5a83b8f8b .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-fd7800f931d5a83b8f8b .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-fd7800f931d5a83b8f8b {
+      grid-area: 1/19/3/26;
+      z-index: 1;
+    }
+
+    .fe-block-fd7800f931d5a83b8f8b .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-fd7800f931d5a83b8f8b .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216a2056d0b3f945e79"><div class="fe-block fe-block-8a1a79080eabdcab5146"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-8a1a79080eabdcab5146"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-vertical-clip
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917908-6K5WL9R165VVI7DKRBQR/image-asset.jpeg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917908-6K5WL9R165VVI7DKRBQR/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917908-6K5WL9R165VVI7DKRBQR/image-asset.jpeg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+        .fe-block-8a1a79080eabdcab5146 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-fd7800f931d5a83b8f8b"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fd7800f931d5a83b8f8b"><div class="sqs-block-content">
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Mon, 02 Jan 2023 17:19:18 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="63b31216fdc2740ec4b419a9" id="sections">
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216fdc2740ec4b419ad"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419ac {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419ac {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419ac {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(18,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-70ac8213f77601237fdc {
+    grid-area: 2/2/16/10;
+    z-index: 0;
+  }
+
+  .fe-block-70ac8213f77601237fdc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-70ac8213f77601237fdc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-70ac8213f77601237fdc {
+      grid-area: 3/2/17/20;
+      z-index: 0;
+    }
+
+    .fe-block-70ac8213f77601237fdc .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-70ac8213f77601237fdc .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419ac"><div class="fe-block fe-block-70ac8213f77601237fdc"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-70ac8213f77601237fdc"><div class="sqs-block-content">
+
+<h1 style="white-space:pre-wrap;">Carmine is a new event for designers who think like artists.</h1><h4 style="white-space:pre-wrap;">10—12 August 2023</h4>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216fdc2740ec4b419b0"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419af {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(17,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419af {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419af {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-c3f9ed8546172178df26 {
+    grid-area: 2/2/10/10;
+    z-index: 0;
+  }
+
+  .fe-block-c3f9ed8546172178df26 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-c3f9ed8546172178df26 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c3f9ed8546172178df26 {
+      grid-area: 2/2/19/16;
+      z-index: 0;
+    }
+
+    .fe-block-c3f9ed8546172178df26 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-c3f9ed8546172178df26 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-0c3ba51a4144f64d7e7c {
+    grid-area: 11/2/17/10;
+    z-index: 1;
+  }
+
+  .fe-block-0c3ba51a4144f64d7e7c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0c3ba51a4144f64d7e7c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0c3ba51a4144f64d7e7c {
+      grid-area: 2/18/11/26;
+      z-index: 1;
+    }
+
+    .fe-block-0c3ba51a4144f64d7e7c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0c3ba51a4144f64d7e7c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419af"><div class="fe-block fe-block-c3f9ed8546172178df26"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-c3f9ed8546172178df26"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-vertical-clip
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917897-I90ZDFFAQTMADXB764NB/2005.37.4_PS2.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917897-I90ZDFFAQTMADXB764NB/2005.37.4_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917897-I90ZDFFAQTMADXB764NB/2005.37.4_PS2.jpg" data-image-dimensions="1387x1107" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-0c3ba51a4144f64d7e7c"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-0c3ba51a4144f64d7e7c"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;">We went to hundreds of design conferences, were inspired by countless speakers and made tons of new connections and friends… but always walked away feeling like we were only talking about a fraction of what designers can do. This is an event dedicated to the rest of it.</p>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216fdc2740ec4b419b3"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419b2 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419b2 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419b2 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(20,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-c7784f696df999ba6388 {
+    grid-area: 2/2/12/10;
+    z-index: 0;
+  }
+
+  .fe-block-c7784f696df999ba6388 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c7784f696df999ba6388 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c7784f696df999ba6388 {
+      grid-area: 1/2/21/26;
+      z-index: 0;
+    }
+
+    .fe-block-c7784f696df999ba6388 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c7784f696df999ba6388 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419b2"><div class="fe-block fe-block-c7784f696df999ba6388"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c7784f696df999ba6388"><div class="sqs-block-content">
+
+<div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="white-space:pre-wrap;">Friday—Sunday<br>10—12 August 2023</h1></span></div><h1 style="white-space:pre-wrap;">—</h1><div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="white-space:pre-wrap;">Brooklyn—NY<br>Clarkson House</h1></span></div>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216fdc2740ec4b419b6"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419b5 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419b5 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419b5 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-88e84e07930dc1385274 {
+    grid-area: 2/2/8/10;
+    z-index: 0;
+  }
+
+  .fe-block-88e84e07930dc1385274 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-88e84e07930dc1385274 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-88e84e07930dc1385274 {
+      grid-area: 3/2/9/10;
+      z-index: 0;
+    }
+
+    .fe-block-88e84e07930dc1385274 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-88e84e07930dc1385274 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-9667754867d1394eef10 {
+    grid-area: 8/2/16/10;
+    z-index: 1;
+  }
+
+  .fe-block-9667754867d1394eef10 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-9667754867d1394eef10 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9667754867d1394eef10 {
+      grid-area: 3/13/18/26;
+      z-index: 1;
+    }
+
+    .fe-block-9667754867d1394eef10 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-9667754867d1394eef10 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419b5"><div class="fe-block fe-block-88e84e07930dc1385274"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-88e84e07930dc1385274"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;">We were always taught that art creates problems and design solves them. Is that an overly limiting way to think of our practice? Are we closing ourselves off to interesting opportunities by not embracing the role of troublemakers?</p>
+
+
+</div></div></div><div class="fe-block fe-block-9667754867d1394eef10"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-9667754867d1394eef10"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-vertical-clip
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917903-I023HVJ6CZQR0R7U0BK5/Copy-of-McQuade_Genius_Spot_Illo_1-copy.jpg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917903-I023HVJ6CZQR0R7U0BK5/Copy-of-McQuade_Genius_Spot_Illo_1-copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917903-I023HVJ6CZQR0R7U0BK5/Copy-of-McQuade_Genius_Spot_Illo_1-copy.jpg" data-image-dimensions="1536x1226" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="63b31216fdc2740ec4b419b9"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419b8 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(24,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419b8 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419b8 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(22,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-ec6eb56fba8a09f7f373 {
+    grid-area: 2/2/25/10;
+    z-index: 0;
+  }
+
+  .fe-block-ec6eb56fba8a09f7f373 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ec6eb56fba8a09f7f373 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ec6eb56fba8a09f7f373 {
+      grid-area: 1/2/22/26;
+      z-index: 0;
+    }
+
+    .fe-block-ec6eb56fba8a09f7f373 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ec6eb56fba8a09f7f373 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419b8"><div class="fe-block fe-block-ec6eb56fba8a09f7f373"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ec6eb56fba8a09f7f373"><div class="sqs-block-content">
+
+<h1 style="white-space:pre-wrap;">Speakers include Mark Novo, Sofia Pazari, Sandra Cami, Kevin Matsuya, Chase Nevins, Ida Kester, Helen Gates and more.</h1>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="63b31216fdc2740ec4b419bc"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419bb {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(15,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419bb {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419bb {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-a7805552c0ba1af06b19 {
+    grid-area: 2/2/9/10;
+    z-index: 0;
+  }
+
+  .fe-block-a7805552c0ba1af06b19 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a7805552c0ba1af06b19 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a7805552c0ba1af06b19 {
+      grid-area: 1/2/14/16;
+      z-index: 0;
+    }
+
+    .fe-block-a7805552c0ba1af06b19 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a7805552c0ba1af06b19 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-9e8b92eafd05ca07b329 {
+    grid-area: 10/2/15/10;
+    z-index: 1;
+  }
+
+  .fe-block-9e8b92eafd05ca07b329 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-9e8b92eafd05ca07b329 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9e8b92eafd05ca07b329 {
+      grid-area: 1/19/6/26;
+      z-index: 1;
+    }
+
+    .fe-block-9e8b92eafd05ca07b329 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-9e8b92eafd05ca07b329 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419bb"><div class="fe-block fe-block-a7805552c0ba1af06b19"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-a7805552c0ba1af06b19"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-vertical-clip
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              <noscript>
+                <img src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917908-6K5WL9R165VVI7DKRBQR/image-asset.jpeg" alt="" loading="lazy" style="
+                  object-fit: cover;
+                  object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+                "/>
+              </noscript>
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917908-6K5WL9R165VVI7DKRBQR/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/624b503cb1a5b60629568349/1649102917908-6K5WL9R165VVI7DKRBQR/image-asset.jpeg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" 
+                loading="lazy"
+                data-stretch="true"
+                style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+              />
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-9e8b92eafd05ca07b329"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9e8b92eafd05ca07b329"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;">Enjoy live demonstrations of papermaking, Japanese calligraphy, screenprinting and other craft traditions with applications to both art and design.</p>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--inset
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="63b31216fdc2740ec4b419bf"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-border">
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-63b31216fdc2740ec4b419be {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-63b31216fdc2740ec4b419be {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-63b31216fdc2740ec4b419be {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(16,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-cab7548802f563658eda {
+    grid-area: 4/2/9/10;
+    z-index: 0;
+  }
+
+  .fe-block-cab7548802f563658eda .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-cab7548802f563658eda .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cab7548802f563658eda {
+      grid-area: 6/5/12/23;
+      z-index: 0;
+    }
+
+    .fe-block-cab7548802f563658eda .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-cab7548802f563658eda .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-63b31216fdc2740ec4b419be"><div class="fe-block fe-block-cab7548802f563658eda"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-cab7548802f563658eda"><div class="sqs-block-content">
+
+<h1 style="text-align:center;white-space:pre-wrap;"><a href="/tickets">Buy Tickets</a></h1>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
